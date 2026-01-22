@@ -22,7 +22,7 @@ This repository is a central index of all my projects, structured by language an
 
 | Project | Language / Tech | Description | Link |
 | :-----: | :-------------: | :---------: | :----: |
-| Tic Tac Toe | C | A terminal-based Tic Tac Toe game written in C, focusing on safe input handling, buffer management, and clean win-condition logic. Designed with careful attention to input safety, correctness, and clean game logic. | 🔗 https://github.com/Nikhil-Kumawat369/Tic-Tac-Toe-C.git |
+| Move Of Faith  | C | A two-player risk-and-reward terminal game in C, where every move could be your last. | 🔗 https://github.com/Nikhil-Kumawat369/Move-Of-Faith-C.git |
 
 # 📂 Projects
 
@@ -32,8 +32,10 @@ This repository is a central index of all my projects, structured by language an
 
 | Project | Description | Link |
 | :-----: | :---------: | :----: |
+| Move Of Faith | A two-player risk-and-reward terminal game in C, where every move could be your last. | 🔗 https://github.com/Nikhil-Kumawat369/Move-Of-Faith-C.git |
 | Number Guessing Game | A console-based Number Guessing Game written in C, featuring single-player mode with high score tracking and a fun custom-range mode | 🔗 https://github.com/Nikhil-Kumawat369/Number-Guessing-Game-C.git |
 | Tic Tac Toe | A terminal-based Tic Tac Toe game written in C, focusing on safe input handling, buffer management, and clean win-condition logic. Designed with careful attention to input safety, correctness, and clean game logic. | 🔗 https://github.com/Nikhil-Kumawat369/Tic-Tac-Toe-C.git |
+
 
 ## 🤪 Chaos & Experiments
 
