@@ -38,6 +38,15 @@ This repository is a central index of all my projects, structured by language an
 | Number Guessing Game | A console-based Number Guessing Game written in C, featuring single-player mode with high score tracking and a fun custom-range mode | 🔗 https://github.com/Nikhil-Kumawat369/Number-Guessing-Game-C.git |
 | Tic Tac Toe | A terminal-based Tic Tac Toe game written in C, focusing on safe input handling, buffer management, and clean win-condition logic. Designed with careful attention to input safety, correctness, and clean game logic. | 🔗 https://github.com/Nikhil-Kumawat369/Tic-Tac-Toe-C.git |
 
+## 🧩 Mini Projects
+
+    Small ideas. Quick builds. Big learning.  
+    These projects may be tiny, but each one teaches something new.  
+    Think of them as leveling up — one mini project at a time.
+
+| Project | Description | Link |
+| :-----: | :---------: | :----: |
+| Profile Card | Modern Profile Card UI built with HTML & CSS featuring social links, hover animations, and clean responsive design. | 🔗 https://github.com/Nikhil-Kumawat369/Profile-Card-mini.git |
 
 ## 🤪 Chaos & Experiments
 
