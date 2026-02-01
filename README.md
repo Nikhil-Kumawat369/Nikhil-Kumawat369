@@ -46,6 +46,7 @@ This repository is a central index of all my projects, structured by language an
 
 | Project | Description | Link |
 | :-----: | :---------: | :----: |
+| 3D Cube | A simple 3D rotating cube built using pure HTML and CSS, showcasing CSS 3D transforms and smooth animations without JavaScript. | 🔗 https://nikhil-kumawat369.github.io/3D-Cube-mini/ |
 | Profile Card | Modern Profile Card UI built with HTML & CSS featuring social links, hover animations, and clean responsive design. | 🔗 https://github.com/Nikhil-Kumawat369/Profile-Card-mini.git |
 
 ## 🤪 Chaos & Experiments
