@@ -22,10 +22,20 @@ This repository is a central index of all my projects, structured by language an
 
 | Project | Language / Tech | Description | Link |
 | :-----: | :-------------: | :---------: | :----: |
+| Encrypted Password Saver | Python | Secure encrypted data storage system built with Python using bcrypt, Scrypt, and Fernet. No plaintext passwords. Ever. | 🔗 https://github.com/Nikhil-Kumawat369/Encrypted-Password-Saver-Py.git |
 | Password Based Text Encryptor | C | A password-based text encryptor in C where each password creates a unique cipher. | 🔗 https://github.com/Nikhil-Kumawat369/Password-Based-Text-Encryptor-C.git |
 | Move Of Faith  | C | A two-player risk-and-reward terminal game in C, where every move could be your last. | 🔗 https://github.com/Nikhil-Kumawat369/Move-Of-Faith-C.git |
 
 # 📂 Projects
+
+## 🐍 Python Language  
+
+    One language. Endless possibilities.  
+    Scripts, tools, systems, experiments — all built to run, not just exist.
+
+| Project | Description | Link |
+| :-----: | :---------: | :----: |
+| Encrypted Password Saver | Secure encrypted data storage system built with Python using bcrypt, Scrypt, and Fernet. No plaintext passwords. Ever. | 🔗 https://github.com/Nikhil-Kumawat369/Encrypted-Password-Saver-Py.git |
 
 ## 🟦 C Language
 
