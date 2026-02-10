@@ -28,7 +28,14 @@ This repository is a central index of all my projects, structured by language an
 
 # 📂 Projects
 
-## 🐍 Python Language  
+## 🌐 FrontEnd Projects
+
+    A collection of projects built with HTML, CSS, and JavaScript — featuring responsive websites, interactive tools, browser-based games, and dynamic applications that run entirely on the client side.
+
+| Project | Description | Link |
+| :-----: | :---------: | :----: |
+
+## 🐍 Python Language Projects
 
     One language. Endless possibilities.  
     Scripts, tools, systems, experiments — all built to run, not just exist.
@@ -37,7 +44,7 @@ This repository is a central index of all my projects, structured by language an
 | :-----: | :---------: | :----: |
 | Encrypted Password Saver | Secure encrypted data storage system built with Python using bcrypt, Scrypt, and Fernet. No plaintext passwords. Ever. | 🔗 https://github.com/Nikhil-Kumawat369/Encrypted-Password-Saver-Py.git |
 
-## 🔵 C Language
+## 🔵 C Language Projects
 
     Low-level thinking, memory, performance, fundamentals
 
@@ -60,7 +67,7 @@ This repository is a central index of all my projects, structured by language an
 | 3D Cube | A simple 3D rotating cube built using pure HTML and CSS, showcasing CSS 3D transforms and smooth animations without JavaScript. | 🔗 https://github.com/Nikhil-Kumawat369/3D-Cube-mini.git |
 | Profile Card | Modern Profile Card UI built with HTML & CSS featuring social links, hover animations, and clean responsive design. | 🔗 https://github.com/Nikhil-Kumawat369/Profile-Card-mini.git |
 
-## 🤪 Chaos & Experiments
+## 🤪 Chaos & Experiment Projects
 
     Some projects don’t care about efficiency, readability, or logic.  
     You might ask “why?” — don’t. Just enjoy the madness.
