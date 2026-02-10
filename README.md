@@ -30,7 +30,9 @@ This repository is a central index of all my projects, structured by language an
 
 ## 🌐 FrontEnd Projects
 
-    A collection of projects built with HTML, CSS, and JavaScript — featuring responsive websites, interactive tools, browser-based games, and dynamic applications that run entirely on the client side.
+    A collection of projects built with HTML, CSS, and JavaScript
+    — featuring responsive websites, interactive tools, browser-based games,
+    and dynamic applications that run entirely on the client side.
 
 | Project | Description | Link |
 | :-----: | :---------: | :----: |
