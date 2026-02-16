@@ -45,6 +45,7 @@ This repository is a central index of all my projects, structured by language an
 | Project | Description | Link |
 | :-----: | :---------: | :----: |
 | Encrypted Password Saver | Secure encrypted data storage system built with Python using bcrypt, Scrypt, and Fernet. No plaintext passwords. Ever. | 🔗 https://github.com/Nikhil-Kumawat369/Encrypted-Password-Saver-Py.git |
+| Tic Tac Toe | A Python Rock–Paper–Scissors game with Normal and Hard modes, multiple match formats, and real-time score tracking. | 🔗 https://github.com/Nikhil-Kumawat369/Rock-Paper-Scissors-Py.git |
 
 ## 🔵 C Language Projects
 
