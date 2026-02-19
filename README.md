@@ -78,4 +78,5 @@ This repository is a central index of all my projects, structured by language an
 
 | Project | Description | Link |
 | :-----: | :---------: | :----: |
+| CaveMans Odd Even | Because who needs Modulo when you can write 900k and even more if/elif statements? Pure chaos, pure caveman logic. Don’t ask why — just enjoy the madness. | 🔗 https://github.com/Nikhil-Kumawat369/Caveman-Odd-Even-fun.git |
 | Hello World Reimagined | 🌟 Hello, World — Reimagined A fresh take on the iconic “Hello, World”! HTML & CSS animation that turns the classic programmer greeting into a visual delight. | 🔗 https://github.com/Nikhil-Kumawat369/Hello-World-Reimagined-fun.git |
