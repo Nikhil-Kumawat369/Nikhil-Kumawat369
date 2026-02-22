@@ -36,6 +36,7 @@ This repository is a central index of all my projects, structured by language an
 
 | Project | Description | Link |
 | :-----: | :---------: | :----: |
+| Tic Tac Toe | Play Tic-Tac-Toe in your browser 🎮 X vs O fun with responsive design & instant wins (or losses)!” | 🔗 https://github.com/Nikhil-Kumawat369/Tic-Tac-Toe-F.git |
 
 ## 🐍 Python Language Projects
 
